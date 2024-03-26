@@ -1,1 +1,2 @@
-i have done this project . When the output displays as 1 It is dog and  if o it is  cat
+I have Done this project using Google Colab and a dataset for dog and cat images
+
